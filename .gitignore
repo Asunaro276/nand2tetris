@@ -1,0 +1,10 @@
+**/*.out
+**/*.cmp
+**/*.tst
+**/*.vm
+**/*.html
+**/*.iml
+**/*.pdf
+**/*.xml
+**/*.gif
+**/__pycache__
